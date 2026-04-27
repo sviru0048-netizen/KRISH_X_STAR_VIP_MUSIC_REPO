@@ -1,6 +1,6 @@
 <h2 align="center">
     👑 KRISH STAR MUSIC 👑
-
+<br>
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
 
@@ -23,7 +23,7 @@ Supports YouTube, Spotify, Apple Music, SoundCloud and M3U8 links.
   <img src="https://raw.githubusercontent.com/sviru0048-netizen/KRISH_X_STAR_VIP_MUSIC_REPO/ALONE/file_0000000053d87208a2f1fde2f7c19106.png">
 </p>
 
-**🎧 DEMO BOT ➣ [KRISH STAR MUSIC BOT](https://t.me/YourBotLink)**
+🎧 DEMO BOT ➣ [KRISH STAR MUSIC BOT](https://t.me/YourBotLink)
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️FORK+REPO+BEFORE+DEPLOY⚠️">
 
@@ -48,7 +48,7 @@ Built with Python, Pyrogram, and Py-TgCalls.
     🚀 DEPLOY ON HEROKU
 </h3>
 
-[![Deploy](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new?template=https://github.com/TeamAloneOp/AloneX)
+[![Deploy](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new?template=https://github.com/KRISH-STAR/KRISH-STAR-MUSIC-BOT)
 
 <h2 align="center">
 
@@ -68,7 +68,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 sudo apt-get install python3-pip ffmpeg -y
 sudo pip3 install -U pip
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash && source ~/.bashrc && nvm install v18
-git clone https://github.com/TeamAloneOp/AloneX && cd AloneX
+git clone https://github.com/KRISH-STAR/KRISH-STAR-MUSIC-BOT && cd KRISH-STAR-MUSIC-BOT
 pip3 install -U -r requirements.txt
 sudo apt install tmux -y && tmux
 bash setup
