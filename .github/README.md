@@ -9,21 +9,11 @@
 <b>Telegram Group Calls Streaming Bot</b><br>
 Supports YouTube, Spotify, Apple Music, SoundCloud and M3U8 links.
 
-<a href="#">
-    <img src="https://img.shields.io/badge/Owner-KRISH%20STAR-purple?style=for-the-badge">
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/Bot-Music-blue?style=for-the-badge">
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge">
-</a>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sviru0048-netizen/KRISH_X_STAR_VIP_MUSIC_REPO/ALONE/file_00000000fdcc7208b69fcfacd439c437.png">
 </p>
 
-🎧 DEMO BOT ➣ [KRISH STAR MUSIC BOT](https://t.me/YourBotLink)
+🎧 DEMO BOT ➣ https://t.me/YourBotLink
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️FORK+REPO+BEFORE+DEPLOY⚠️">
 
@@ -52,8 +42,9 @@ Built with Python, Pyrogram, and Py-TgCalls.
 
 <h2 align="center">
 
-🔴 IF ANY ERROR THEN CONTACT 🔴  
-[![KRISH](https://te.legra.ph/file/fa42213a5129d4a26dd3d.jpg)](https://t.me/YourUsername)
+🔴 IF ANY ERROR THEN CONTACT 🔴  
+
+👉 https://t.me/YourUsername
 
 </h2>
 
