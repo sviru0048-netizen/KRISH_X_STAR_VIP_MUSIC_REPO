@@ -1,23 +1,14 @@
 <h2 align="center">
     👑 KRISH STAR MUSIC 👑
-    <br>
-    ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
+
+★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sviru0048-netizen/KRISH_X_STAR_VIP_MUSIC_REPO/ALONE/file_000000053d87208a2f1fde2f7c19106.png" width="500">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+WELCOME+TO+KRISH+STAR+MUSIC+REPO;ㅤ+POWERFUL+TELEGRAM+MUSIC+BOT;🔥+FAST+AND+SMOOTH+STREAMING)](https://github.com/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🔥+WELCOME+TO+KRISH+STAR+MUSIC+BOT;⚡+POWERFUL+TELEGRAM+MUSIC+BOT;🚀+FAST+AND+SMOOTH+STREAMING)]()
+<b>Telegram Group Calls Streaming Bot</b><br>
+Supports YouTube, Spotify, Apple Music, SoundCloud and M3U8 links.
 
----
-
-<b>👑 KRISH STAR Telegram Music Bot</b><br>
-Supports YouTube, Spotify, Resso, Apple Music, SoundCloud and M3U8 links.
-
----
-
-<p align="center">
 <a href="#">
     <img src="https://img.shields.io/badge/Owner-KRISH%20STAR-purple?style=for-the-badge">
 </a>
@@ -27,39 +18,50 @@ Supports YouTube, Spotify, Resso, Apple Music, SoundCloud and M3U8 links.
 <a href="#">
     <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge">
 </a>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sviru0048-netizen/KRISH_X_STAR_VIP_MUSIC_REPO/ALONE/file_0000000053d87208a2f1fde2f7c19106.png">
 </p>
 
----
-
-### 🤖 DEMO BOT  
-👉 **[KRISH STAR MUSIC BOT](https://t.me/YourBotLink)**
-
----
+**🎧 DEMO BOT ➣ [KRISH STAR MUSIC BOT](https://t.me/YourBotLink)**
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️FORK+REPO+BEFORE+DEPLOY⚠️">
 
----
+KRISH STAR Music Bot lets you stream high-quality audio and video in Telegram VC.<br>
+Built with Python, Pyrogram, and Py-TgCalls.
 
-## 🔥 Features
+<hr>
 
-- 🎧 High Quality Audio Streaming  
-- ⚡ Fast & Smooth Playback  
+<h2>🔥 Features</h2>
+
+- 🎧 Stream audio in Telegram VC  
 - 🌐 Supports YouTube, Spotify, Apple Music  
-- 🔄 Auto Queue System  
-- 💻 Works on VPS + Heroku  
-- ❤️ Fully Customizable  
+- ⚡ Auto queue system  
+- ☁️ Works on VPS & Heroku  
+- ❤️ Fully customizable  
 
----
+<hr>
 
-## ☁️ Deployment
+<h2>☁️ Deployment</h2>
 
-### 🚀 Deploy on Heroku
+<h3 align="center">
+    🚀 DEPLOY ON HEROKU
+</h3>
 
 [![Deploy](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new?template=https://github.com/TeamAloneOp/AloneX)
 
----
+<h2 align="center">
 
-## 🔧 VPS / Local Setup
+🔴 IF ANY ERROR THEN CONTACT 🔴  
+[![KRISH](https://te.legra.ph/file/fa42213a5129d4a26dd3d.jpg)](https://t.me/YourUsername)
+
+</h2>
+
+<h3 align="center">
+    💻 VPS / LOCAL HOST SETUP
+</h3>
+
+### 🔧 Quick Setup
 
 ```bash
 sudo apt-get update && sudo apt-get upgrade -y
@@ -71,4 +73,3 @@ pip3 install -U -r requirements.txt
 sudo apt install tmux -y && tmux
 bash setup
 bash start
-
