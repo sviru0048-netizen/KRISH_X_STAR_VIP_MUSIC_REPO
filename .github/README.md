@@ -20,7 +20,7 @@ Supports YouTube, Spotify, Apple Music, SoundCloud and M3U8 links.
 </a>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sviru0048-netizen/KRISH_X_STAR_VIP_MUSIC_REPO/ALONE/file_0000000053d87208a2f1fde2f7c19106.png">
+  <img src="https://raw.githubusercontent.com/sviru0048-netizen/KRISH_X_STAR_VIP_MUSIC_REPO/ALONE/file_00000000fdcc7208b69fcfacd439c437.png">
 </p>
 
 🎧 DEMO BOT ➣ [KRISH STAR MUSIC BOT](https://t.me/YourBotLink)
@@ -48,11 +48,11 @@ Built with Python, Pyrogram, and Py-TgCalls.
     🚀 DEPLOY ON HEROKU
 </h3>
 
-[![Deploy](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new?template=https://github.com/KRISH-STAR/KRISH-STAR-MUSIC-BOT)
+[![Deploy](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new?template=https://github.com/sviru0048-netizen/KRISH_X_STAR_VIP_MUSIC_REPO)
 
 <h2 align="center">
 
-🔴 IF ANY ERROR THEN CONTACT 🔴  
+🔴 IF ANY ERROR THEN CONTACT 🔴  
 [![KRISH](https://te.legra.ph/file/fa42213a5129d4a26dd3d.jpg)](https://t.me/YourUsername)
 
 </h2>
@@ -68,7 +68,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 sudo apt-get install python3-pip ffmpeg -y
 sudo pip3 install -U pip
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash && source ~/.bashrc && nvm install v18
-git clone https://github.com/KRISH-STAR/KRISH-STAR-MUSIC-BOT && cd KRISH-STAR-MUSIC-BOT
+git clone https://github.com/sviru0048-netizen/KRISH_X_STAR_VIP_MUSIC_REPO && cd KRISH_X_STAR_VIP_MUSIC_REPO
 pip3 install -U -r requirements.txt
 sudo apt install tmux -y && tmux
 bash setup
