@@ -1,8 +1,9 @@
+
 {
-    "name": "˹𝞚𝙡𝞸𝞰𝞮 ✗ 𝙈𝙪𝙨𝙞𝙘 ♪˼",
-    "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://litter.catbox.moe/xroqew.jpg",
-    "keywords": ["python3", "telegram", "bot", "music-bot"],
+    "name": "KRISH STAR MUSIC 🎧",
+    "description": "KRISH STAR VIP Music Bot - Powered by Krish Bairagi 🔥 Fast • Powerful • Premium Music Experience",
+    "logo": "https://i.imgur.com/yourlogo.jpg",
+    "keywords": ["krishstar", "telegram", "music", "vip-bot", "python3"],
     "stack": "container",
     "env": {
         "API_ID": {
@@ -31,12 +32,12 @@
             "required": true
         },
         "OWNER_ID": {
-            "description": "The user id of user whom you would like to add as OWNER.",
+            "description": "Krish Bairagi (Bot Owner User ID)",
             "value": "",
             "required": true
         },
         "SESSION": {
-            "description": "A Pyrogram v2 String Session from @StringFatherBot on Telegram.",
+            "description": "Pyrogram v2 String Session (KRISH STAR USERBOT)",
             "value": "",
             "required": true
         }
